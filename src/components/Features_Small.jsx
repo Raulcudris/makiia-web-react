@@ -14,7 +14,7 @@ export const Features_Small = () => {
                
                         </div>
                         <div  className="card-body">
-                            <h5  className="card-title">Identify Goals</h5>
+                            <h5  className="card-title">Diseño Web</h5>
                         </div>
                     </div>
                     {/* <!-- end of card --> */}
@@ -25,7 +25,7 @@ export const Features_Small = () => {
                     
                         </div>
                         <div  className="card-body">
-                            <h5  className="card-title">Situation Analysis</h5>
+                            <h5  className="card-title">Desarrollo de APP</h5>
                         </div>
                     </div>
                     {/* <!-- end of card --> */}
@@ -36,32 +36,17 @@ export const Features_Small = () => {
                             <i  className="fas fa-cog"></i>
                         </div>
                         <div  className="card-body">
-                            <h5  className="card-title">Tasks Settings</h5>
+                            <h5  className="card-title">Administracion de base de datos</h5>
                         </div>
                     </div>
-                    {/* <!-- end of card --> */}
-
-                    {/* <!-- Card --> */}
-                    <div  className="card">
-                        <div  className="card-image yellow">
-                            <i  className="fas fa-comments"></i>
-                        </div>
-                        <div  className="card-body">
-                            <h5  className="card-title">Social Interaction</h5>
-                        </div>
-                    </div>
-                    {/* <!-- end of card --> */}
-
-                    {/* <!-- Card --> */}
                     <div  className="card">
                         <div  className="card-image blue">
                             <i  className="fas fa-rocket"></i>
                         </div>
                         <div  className="card-body">
-                            <h5  className="card-title">Get Things Done</h5>
+                            <h5  className="card-title">Soporte tecnico.</h5>
                         </div>
                     </div>
-                    {/* <!-- end of card --> */}
 
                 </div> 
             </div> 

@@ -773,6 +773,11 @@ input[type='checkbox'] {
 	background-color: #f7fafd;
 	text-align: center;
 }
+.header .image-container{
+	position: relative;
+	height: auto;
+	padding: auto;
+}
 
 .header .text-container {
 	margin-bottom: 3rem;
@@ -889,6 +894,8 @@ input[type='checkbox'] {
 
 .basic-1 .image-container {
 	margin-bottom: 5rem;
+	width: 500px;
+	height: 500px;
 }
 
 .basic-1 h2 {
